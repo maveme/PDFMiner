@@ -10,5 +10,5 @@ public java PDFFile readPDFFile(loc path);
 PDFFile parsePDFFile(loc filePath) {
 	PDFFile doc = readPDFFile(filePath);
 	list[str] stripes = split("\n", doc.text);
-	return pdf(doc.title, stripes);
+	return pdf(doc.title, stripes, doc.keywords);
 }

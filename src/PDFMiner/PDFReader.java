@@ -16,6 +16,8 @@ import io.usethesource.vallang.type.TypeFactory;
 import io.usethesource.vallang.type.TypeStore;
 
 public class PDFReader {
+	
+	
 	private IValueFactory vf;
 	private TypeFactory tf;
 	private TypeStore tStore;
@@ -23,13 +25,13 @@ public class PDFReader {
 	private Type pdfFileADT;
 	private Type pdfConstructor;
 
-
+	
 	public PDFReader(IValueFactory vf) {
 		this.vf = vf;
 		this.tf = TypeFactory.getInstance();
 		this.tStore =  new TypeStore();
 		this.pdfFileADT = tf.abstractDataType(tStore, "PDFFile");
-		this.pdfConstructor = tf.constructor(tStore, pdfFileADT, "pdf", tf.stringType(), "title", tf.stringType(), "text");
+		this.pdfConstructor = tf.constructor(tStore, pdfFileADT, "pdf", tf.stringType(), "title", tf.stringType(), "text", tf.stringType(), "keywords");
 		
 		try {
 			this.textStripper = new PDFTextStripper();
@@ -45,16 +47,13 @@ public class PDFReader {
 			PDDocumentInformation pdfInformation  = document.getDocumentInformation();
 			String title = pdfInformation.getTitle();
 			String keywords = pdfInformation.getKeywords();
-			pdfInformation.getSubject();
 			
-
 			if (!document.isEncrypted()) {
 				PDFTextStripperByArea stripper = new PDFTextStripperByArea();
 				stripper.setSortByPosition(true);
 				String pdfText = this.textStripper.getText(document);
 				
-				return vf.constructor(pdfConstructor, vf.string(title), vf.string(pdfText));
-
+				return vf.constructor(pdfConstructor, vf.string(title), vf.string(pdfText), vf.string(keywords));
 			}
 		}
 		catch (Exception e) {

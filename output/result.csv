@@ -1,29 +1,29 @@
-pdfName,pdfFileName,occurences,numberOccurences
-B@SE: Blocks for @rduino in the Students&#x2019; educational process,B@SE- Blocks for @rduino in the Students’ educational process,"{""Alice"",""Snap"",""Blockly@rduino"",""RoboBuilder"",""Blocklyduino"",""CodeSpells"",""Ardublockly"",""Blockly"",""Scratch""}",9
-Alg-Design: Facilitates to Learn Algorithmic Thinking for Beginners,Alg-Design- Facilitates to Learn Algorithmic Thinking for Beginners,"{""Alice"",""CT-Blocks"",""Scratch"",""BYOB"",""Snap""}",5
-,Blockly Goes to Work- Block-based Programming for Industrial Robots,"{""Alice"",""Blockly"",""Scratch""}",3
-Do code smells hamper novice programming? A controlled experiment on Scratch programs,Do Code Smells Hamper Novice Programming?,"{""Alice"",""BLOX"",""UML"",""Blockly"",""Scratch""}",5
-Engage Your Students via Physical Computing&#x0021;,Engage Your Students via Physical Computing!,"{""Micropython"",""blockly""}",2
-NaoBlocks: A Case Study of Developing a Children&#x0027;s Robot Programming Environment,NaoBlocks- A Case Study of Developing a Children's Robot Programming Environment,"{""CustomPrograms"",""Blockly"",""Scratch""}",3
-,Understanding recurring quality problems and their impact on code sharing in block-based software,"{""Kodu"",""Scratch""}",2
-A Novel Block-Based Programming Framework for Non-programmers to Validate PLC Based Machine Tools for Automotive Manufacturing Facilities,A Novel Block-Based Programming Framework for Non-Programmers to Validate PLC Based Machine Tools for Automotive Manufacturing Facilities,"{""UML"",""Blockly""}",2
-Transitioning from Block-Based to Text-Based Programming Languages,Transitioning from Block-based to Text-based Programming Languages,"{""Alice"",""Snap!"",""Blockly"",""Scratch""}",4
-A Programming Environment for Visual Block-Based Domain-Specific Languages,A Programming Environment for Visual Block-BasedDomain-Specific Languages,"{""Blockly"",""Scratch""}",2
-How do Scratch Programmers Name Variables and Procedures?,How do Scratch Programmers Name Variables and Procedures?,"{""Alice"",""Scratch""}",2
-A Usability Analysis of Blocks-based Programming Editors using Cognitive Dimensions,A Usability Analysis of Blocks-based Programming Editors using Cognitive Dimensions,"{""GP"",""Tynker"",""Snap!"",""Ardublockly"",""Blockly"",""Scratch""}",6
-Evaluation of A Visual Programming Keyboard on Touchscreen Devices,Evaluation of A Visual Programming Keyboard on Touchscreen Devices,"{""Blockly""}",1
-MUzECS: Embedded blocks for exploring computer science,MUzECS- Embedded Blocks for Exploring Computer Science,"{""Blockly"",""Scratch""}",2
-Block-C: A block-based programming teaching tool to facilitate introductory C programming courses,Block-C- A block-based programming teaching tool to facilitate introductory C programming courses,"{""Openblocks"",""Scratch"",""AppInventor""}",3
-CT-Blocks: Learning Computational Thinking by Snapping Blocks,CT-Blocks- Learning Computational Thinking by Snapping Blocks,"{""Alice"",""CT-Blocks"",""Scratch"",""BYOB"",""Snap""}",5
-Fractal Geometry: Enhancing Computational Thinking with MIT Scratch,Fractal Geometry- Enhancing Computational thinking with MIT Scratch,"{""Alice"",""Scratch""}",2
-DB-Learn: Studying Relational Algebra Concepts by Snapping Blocks,DB-Learn- Studying Relational Algebra Concepts by Snapping Blocks,"{""CT-Blocks"",""Snap"",""Bags"",""Scratch""}",4
-Interactive learning environment for practical programming language based on web service,Interactive learning environment for practical programming language based on web service,"{""Blockly"",""Scratch""}",2
-Map-Blocks: Playing with Online Data and Infuse to Think in a Computational Way,Map-Blocks- Playing with online data and infuse to think in a computational way,"{""Alice"",""CT-Blocks"",""Snap"",""Scratch""}",4
-tetc-2729585-pp.pdf,Design and Evaluation of a Block-based Environment with a Data Science Context,"{""Alice"",""GreenFoot"",""Snap!"",""GP"",""NetsBlox"",""Blockly"",""Scratch""}",7
-Block-based programming abstractions for explicit parallel computing,Block-Based Programming Abstractions for Explicit Parallel Computing,"{""Snap!"",""Scratch""}",2
-[Engineering Paper] An IDE for Easy Programming of Simple Robotics Tasks,An IDE for Easy Programming of Simple Robotics Tasks,"{""Blockly"",""Scratch"",""blockly""}",3
-A scratch-based graphical policy editor for XACML,A scratch-based graphical policy editor for XACML,"{""UML"",""Scratch""}",2
-Enabling Teenagers to Create and Share Apps,Enabling Teenagers to Create and Share Apps,"{""AppyBuilder"",""Sketchware"",""Thunkable"",""Scratch""}",4
-Software clones in scratch projects: on the presence of copy-and-paste in computational thinking learning,Software clones in scratch projects- on the presence of copy-and-paste in computational thinking learning,"{""Alice"",""Kodu"",""Scratch""}",3
-EduBot: An Educational Robot for Underprivileged Children,EduBot- An Educational Robot for Underprivileged Children,"{""Blockly"",""Scratch""}",2
-Block-based realtime big-data processing for smart cities,Block-based Realtime Big-Data Processing for Smart Cities,"{""Scratch""}",1
+pdfName,pdfFileName,occurences,numberOccurences,keywords
+Map-Blocks: Playing with Online Data and Infuse to Think in a Computational Way,Map-Blocks- Playing with online data and infuse to think in a computational way,"{""Alice"",""CT-Blocks"",""Snap"",""Scratch""}",4,
+,Understanding recurring quality problems and their impact on code sharing in block-based software,"{""Kodu"",""Scratch"",""Lego Mindstorms""}",3,
+Do code smells hamper novice programming? A controlled experiment on Scratch programs,Do Code Smells Hamper Novice Programming?,"{""Alice"",""BLOX"",""UML"",""Blockly"",""Scratch""}",5,
+Evaluation of A Visual Programming Keyboard on Touchscreen Devices,Evaluation of A Visual Programming Keyboard on Touchscreen Devices,"{""Blockly""}",1,
+How do Scratch Programmers Name Variables and Procedures?,How do Scratch Programmers Name Variables and Procedures?,"{""Alice"",""Scratch""}",2,"variable name, scratch"
+A Usability Analysis of Blocks-based Programming Editors using Cognitive Dimensions,A Usability Analysis of Blocks-based Programming Editors using Cognitive Dimensions,"{""GP"",""Tynker"",""Snap!"",""Ardublockly"",""Blockly"",""Scratch""}",6,
+Block-based realtime big-data processing for smart cities,Block-based Realtime Big-Data Processing for Smart Cities,"{""Scratch""}",1,
+B@SE: Blocks for @rduino in the Students&#x2019; educational process,B@SE- Blocks for @rduino in the Students’ educational process,"{""Alice"",""Blockly@rduino"",""app inventor"",""StarLogo TNG"",""Snap"",""RoboBuilder"",""Frog Pond"",""CodeSpells"",""Ardublockly"",""Blockly"",""Scratch"",""Turtle Art"",""Blocklyduino""}",13,
+Block-based programming abstractions for explicit parallel computing,Block-Based Programming Abstractions for Explicit Parallel Computing,"{""Snap!"",""Scratch""}",2,
+Alg-Design: Facilitates to Learn Algorithmic Thinking for Beginners,Alg-Design- Facilitates to Learn Algorithmic Thinking for Beginners,"{""Alice"",""CT-Blocks"",""Scratch"",""BYOB"",""Snap""}",5,
+MUzECS: Embedded blocks for exploring computer science,MUzECS- Embedded Blocks for Exploring Computer Science,"{""Lego Mindstorms"",""Blockly"",""Scratch""}",3,
+Interactive learning environment for practical programming language based on web service,Interactive learning environment for practical programming language based on web service,"{""Blockly"",""Scratch""}",2,
+Engage Your Students via Physical Computing&#x0021;,Engage Your Students via Physical Computing!,"{""Micropython"",""blockly""}",2,
+tetc-2729585-pp.pdf,Design and Evaluation of a Block-based Environment with a Data Science Context,"{""Alice"",""GreenFoot"",""Snap!"",""GP"",""NetsBlox"",""Blockly"",""Scratch""}",7,
+Transitioning from Block-Based to Text-Based Programming Languages,Transitioning from Block-based to Text-based Programming Languages,"{""Alice"",""Snap!"",""Lego Mindstorms"",""app inventor"",""Blockly"",""Scratch""}",6,
+Software clones in scratch projects: on the presence of copy-and-paste in computational thinking learning,Software clones in scratch projects- on the presence of copy-and-paste in computational thinking learning,"{""Alice"",""Kodu"",""Scratch""}",3,
+A scratch-based graphical policy editor for XACML,A scratch-based graphical policy editor for XACML,"{""UML"",""Scratch"",""App inventor""}",3,
+NaoBlocks: A Case Study of Developing a Children&#x0027;s Robot Programming Environment,NaoBlocks- A Case Study of Developing a Children's Robot Programming Environment,"{""CustomPrograms"",""Open Roberta"",""Lego Mindstorms"",""Blockly"",""Scratch""}",5,
+,Blockly Goes to Work- Block-based Programming for Industrial Robots,"{""Alice"",""Lego Mindstorms"",""Blockly"",""Scratch""}",4,
+CT-Blocks: Learning Computational Thinking by Snapping Blocks,CT-Blocks- Learning Computational Thinking by Snapping Blocks,"{""Alice"",""CT-Blocks"",""Scratch"",""BYOB"",""Snap""}",5,
+[Engineering Paper] An IDE for Easy Programming of Simple Robotics Tasks,An IDE for Easy Programming of Simple Robotics Tasks,"{""Dash and Dot"",""Blockly"",""Scratch"",""blockly""}",4,
+Block-C: A block-based programming teaching tool to facilitate introductory C programming courses,Block-C- A block-based programming teaching tool to facilitate introductory C programming courses,"{""Openblocks"",""Scratch"",""Squeak eToys."",""AppInventor""}",4,
+Fractal Geometry: Enhancing Computational Thinking with MIT Scratch,Fractal Geometry- Enhancing Computational thinking with MIT Scratch,"{""Alice"",""Scratch""}",2,
+A Programming Environment for Visual Block-Based Domain-Specific Languages,A Programming Environment for Visual Block-BasedDomain-Specific Languages,"{""Blockly"",""Scratch""}",2,
+EduBot: An Educational Robot for Underprivileged Children,EduBot- An Educational Robot for Underprivileged Children,"{""Blockly"",""Scratch""}",2,
+A Novel Block-Based Programming Framework for Non-programmers to Validate PLC Based Machine Tools for Automotive Manufacturing Facilities,A Novel Block-Based Programming Framework for Non-Programmers to Validate PLC Based Machine Tools for Automotive Manufacturing Facilities,"{""UML"",""Blockly""}",2,
+Enabling Teenagers to Create and Share Apps,Enabling Teenagers to Create and Share Apps,"{""AppyBuilder"",""Sketchware"",""Thunkable"",""Scratch""}",4,
+DB-Learn: Studying Relational Algebra Concepts by Snapping Blocks,DB-Learn- Studying Relational Algebra Concepts by Snapping Blocks,"{""CT-Blocks"",""Snap"",""Bags"",""Scratch""}",4,
