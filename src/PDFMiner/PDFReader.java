@@ -1,4 +1,4 @@
-package org.rascal.pdfReader;
+package PDFMiner;
 
 import java.io.IOException;
 
@@ -15,12 +15,7 @@ import io.usethesource.vallang.type.Type;
 import io.usethesource.vallang.type.TypeFactory;
 import io.usethesource.vallang.type.TypeStore;
 
-
-// https://www.mkyong.com/java/pdfbox-how-to-read-pdf-file-in-java/
-
-
 public class PDFReader {
-
 	private IValueFactory vf;
 	private TypeFactory tf;
 	private TypeStore tStore;
@@ -68,14 +63,3 @@ public class PDFReader {
 		return vf.constructor(pdfConstructor, vf.string("Error"), vf.string("Error"));
 	}
 }
-
-//public class PDF {
-//	
-//	public String title;
-//	public String text;
-//	
-//	public PDF(String pTitle, String pText) {
-//		this.title = pTitle;
-//		this.text = pText;
-//	}
-//}
